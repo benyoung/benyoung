@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello all
+
+I'm a mathematician, working at the University of Oregon.  Also: trad musician, mad scientist, etc.
 
 <!--
 **benyoung/benyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Mathematics professor at University of Oregon.  Also: trad musician, mad scientist, etc.
